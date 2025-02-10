@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an error where the development server would unexpectedly close after a certain period of inactivity or after making specific changes to my code. The console displayed no clear error messages, and the app would not reload. This was intermittent and made debugging frustrating.
